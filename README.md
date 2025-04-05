@@ -1,3 +1,3 @@
-# Desmos666的资源包
+# Desmos666的资源包仓库
 
-[Desmos666's Resource Pack](https://github.com/Desmos114/Desmos666-Resource-Pack) © 2025 by [Desmos666](https://github.com/Desmos114) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+未经特殊说明，所有资源包的支持版本均为 `1.20.2` 与 `1.21.5` 之间的所有版本。
