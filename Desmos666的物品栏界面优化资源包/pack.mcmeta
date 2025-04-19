@@ -1,0 +1,33 @@
+{
+	"pack": {
+		"description": [
+			{
+				"text": "This work",
+				"color": "white",
+				"font": "minecraft:uniform"
+			},
+			{
+				"text": " © 2025 ",
+				"color": "#808080",
+				"font": "minecraft:uniform"
+			},
+			{
+				"text": "by Desmos666",
+				"color": "yellow",
+				"font": "minecraft:uniform"
+			},
+			{
+				"text": " is licensed under ",
+				"color": "#808080",
+				"font": "minecraft:uniform"
+			},
+			{
+				"text": "CC BY-NC-SA 4.0",
+				"color": "red",
+				"font": "minecraft:uniform"
+			}
+		],
+		"pack_format": 46,
+		"supported_formats": [16, 55]
+	}
+}
